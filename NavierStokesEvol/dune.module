@@ -1,0 +1,10 @@
+################################
+# Dune module information file #
+################################
+
+#Name of the module
+Module: NavierStokesEvol
+Version: 1
+Maintainer: abjelcic@phy.hr
+#depending on
+Depends: dune-common dune-uggrid dune-geometry dune-grid dune-localfunctions dune-istl dune-typetree dune-functions dune-alugrid dune-pdelab
